@@ -10,7 +10,7 @@ void quicksort(double *arr, int low, int high){
 		 * Then swap them if the larger value is upstream to the smaller value.
 		 * Continue screening and swapping until the whole array is screened.
 		 * Then place the pivot where search for a smaller value stopped.
-		 * The older value therein must be transfered to the old location of pivot first. */
+		 * The older value therein must be first transfered to the old location of pivot. */
 		while(i< j){
 			while(arr[i] <= pivot && i<= high)
 				i++;
