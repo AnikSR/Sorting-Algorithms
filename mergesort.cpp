@@ -40,6 +40,7 @@ void merge(double *inputArray, int low, int mid, int high){
 	for(j = 0; j< n2; j++)
 		arr2[j] = inputArray[mid+1+j];
 
+	// Marks the end of array, just as '\0' indicated end of string in C.
 	arr1[i] = 994967296;
 	arr2[j] = 994967296;
 
