@@ -28,7 +28,7 @@ void split(double *inputArray, int low, int high){
  * the conquer step of mergesort algorithm. */
 void merge(double *inputArray, int low, int mid, int high){
 	int n1, n2;	// Variable to hold array size.
-       	int i, j, k;	// Index variable.
+	int i, j, k;	// Index variable.
 	
 	n1 = mid - low + 1;
 	n2 = high - mid;
