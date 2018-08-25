@@ -21,6 +21,7 @@ void sSort_s2g(double *, int);
 void split(double * , int, int);
 void merge(double * , int, int, int);
 void quicksort(double * , int, int);
+void bubbleSort(double *, int);
 
 // Output function.
 void printArray(double *, int);
