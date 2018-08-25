@@ -16,10 +16,10 @@ void isort_s2g(double *array, int n){
 	 * 4. the while loop compares the key with the first two sorted elements, swapping it with
 	 * earlier elements if necessary.
 	 *
-	 * 5. This process continues until the for loop reaches the final element(i = size -1). Now
+	 * 5. This process continues until the for loop reaches the final element(i = size-1). Now
 	 * the final element becomes the key and the while loop compares it with all the previous
-	 * sorted elements, "inserting" it in the proper location. With all the element now placed
-	 * to its rightful location, sorting is now complete. */
+	 * sorted elements "inserting" it in the proper location. With all the elements now placed
+	 * to their rightful location, sorting is now complete. */
 	int i, j, key;
 	for(i=1; i<n; i++)
 	{
