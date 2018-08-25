@@ -11,4 +11,4 @@ Sources:
 4. AlgoRythmics YouTube channel. This channel presents each algorithm with Hungerian folk dance. Their unique presentation is really inspiring.
 5. GeeksforGeeks YouTube Channel.
 6. Other YouTube channels like KC Ang, CS 50 etc.
-7. Wikipedia pagea on various sorting algorithms.
+7. Wikipedia pages on various sorting algorithms.
